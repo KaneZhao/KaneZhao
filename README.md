@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning and Web Development**
 
 - 📫 How to reach me **kanezhao211@gmail.com**
 
